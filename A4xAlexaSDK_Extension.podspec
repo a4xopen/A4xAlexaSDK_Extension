@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
                     this is A4xAlexaSDK_Extension
                    DESC
 
-  s.homepage     = "https://github.com/addx-open/ios_public_lib"
+  s.homepage     = "https://github.com/a4xopen/A4xAlexaSDK_Extension"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -85,7 +85,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/addx-open/ios_public_lib.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/a4xopen/A4xAlexaSDK_Extension.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
